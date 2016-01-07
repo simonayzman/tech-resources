@@ -6,4 +6,5 @@
 * Tech Opportunities
 * Awesome, Free Resources
 * Useful C++ Books
-* Student Tools
+* Online Coding/Collaboration Tools
+* Hackathon Tools & Resources
