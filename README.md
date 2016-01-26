@@ -1,4 +1,4 @@
-# Student Resources
+# Tech Resources
 
 * [Online Learning Platforms]
 * Learning Git/GitHub Resources
@@ -9,4 +9,5 @@
 * Online Coding/Collaboration Tools
 * Hackathon Tools & Resources
 
+(*This document is a work in progress*)
 [Online Learning Platforms]: <Online_Learning_Platforms.md>
