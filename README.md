@@ -1,14 +1,28 @@
 # Tech Resources
 
 * [Online Learning Platforms]
-* [Learning Git/GitHub Resources]
-* Technical Interviews
-* Tech Opportunities
-* Awesome, Free Resources
-* Useful C++ Books
-* Online Coding/Collaboration Tools
-* Hackathon Tools & Resources
+* [Learning Git/GitHub]
+* [Technical Interviews]
+* [Tech Opportunities]
+* [C++ & Software Engineering Books]
+* [Online Coding & Collaboration]
+* [Hackathon Awesomeness]
+* [Awesome, Free, & Miscellaneous]
 
-(*This document is a work in progress*)
+For an overwhelming amount more, check out [HowToBeAProgrammer], [awesome], [awesome-awesomeness], [lists], and [ListOfGithubLists].
+
+(**This document is a work in progress, so feel free to fork this repository, make changes, and submit pull requests!**)
+
 [Online Learning Platforms]: <Online_Learning_Platforms.md>
-[Learning Git/GitHub Resources]: <Learning_Git_GitHub.md>
+[Learning Git/GitHub]: <Learning_Git_GitHub.md>
+[Technical Interviews]: <Technical_Interviews.md>
+[Tech Opportunities]: <Tech_Opportunities.md>
+[C++ & Software Engineering Books]: <Books.md>
+[Online Coding & Collaboration]: <Online_Coding_Collaboration.md>
+[Hackathon Awesomeness]: <Hackathons.md>
+[Awesome, Free, & Miscellaneous]: <Other.md>
+[HowToBeAProgrammer]: <https://github.com/braydie/HowToBeAProgrammer>
+[awesome]: <https://github.com/sindresorhus/awesome>
+[awesome-awesomeness]: <https://github.com/bayandin/awesome-awesomeness>
+[lists]: <https://github.com/jnv/lists>
+[ListOfGithubLists]: <https://github.com/asciimoo/ListOfGithubLists>
