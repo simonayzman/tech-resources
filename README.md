@@ -1,4 +1,5 @@
 # Tech Resources
+I've decided to compile a list of resources that might be helpful to anyone going into the tech industry. Check them out below. (**This document is a work in progress, so feel free to fork this repository, make changes, and submit pull requests!**)
 
 * [Online Learning Platforms]
 * [Learning Git/GitHub]
@@ -9,9 +10,12 @@
 * [Hackathon Awesomeness]
 * [Awesome, Free, & Miscellaneous]
 
-For an overwhelming amount more, check out [HowToBeAProgrammer], [awesome], [awesome-awesomeness], [lists], and [ListOfGithubLists].
-
-(**This document is a work in progress, so feel free to fork this repository, make changes, and submit pull requests!**)
+For an overwhelming amount more, check out:
+* [HowToBeAProgrammer]
+* [awesome]
+* [awesome-awesomeness]
+* [lists]
+* [ListOfGithubLists]
 
 [Online Learning Platforms]: <Online_Learning_Platforms.md>
 [Learning Git/GitHub]: <Learning_Git_GitHub.md>
