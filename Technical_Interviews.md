@@ -1,5 +1,5 @@
 # Technical Interviews
-There is a plethora of online resources that you can take advantage of to learn almost anything. With enough willpower and time, you can jump into an unfamiliar subject and get guidance from the best teachers out there. I've compiled a list of online learning platforms that I'm familiar with. Most offer all free courses. Others have free courses, and give more personalized attention for a fee. Some are paid subscription services with a few trial courses. The paid ones are sometimes worth the money, but be sure to do your due diligence if you want to go that route. Here is the list:
+Learn to become a better technical interviewer with these resources!
 
 ### Books
 * [Cracking the Coding Interview] by Gayle Laakmann McDowell (*earlier editions are good as well*)
