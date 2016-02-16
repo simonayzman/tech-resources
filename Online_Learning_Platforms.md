@@ -12,6 +12,7 @@ There is a plethora of online resources that you can take advantage of to learn 
 * [Pluralsight]
 * [Lynda]
 * [Treehouse]
+* [freeCodeCamp]
 
 For a more complete list with descriptions, visit the [80+ Best MOOC (Massive Open Online Course) Providers List]. If you have something specific in mind, you can use search engine and rating sites like [CourseTalk], [Class Central], and [Mooctivity] to find what you're looking for amongst these platforms. If you do find something you're interested in, don't feel overwhelmed by your options. Just choose one and go with it!
 
@@ -26,6 +27,8 @@ For a more complete list with descriptions, visit the [80+ Best MOOC (Massive Op
 [Codecademy]: <https://www.codecademy.com>
 [Code School]: <https://www.codeschool.com>
 [Khan Academy]: <https://khanacademy.org>
+[freeCodeCamp]: <http://www.freecodecamp.com/>
+
 [80+ Best MOOC (Massive Open Online Course) Providers List]: <http://www.knowledgelover.com/best-mooc-massive-open-online-course-providers-list>
 [Class Central]: <https://www.class-central.com>
 [Mooctivity]: <https://www.mooctivity.com>
