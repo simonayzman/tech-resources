@@ -1,4 +1,4 @@
-# Awesome, Free, & Miscellaneous
+## Awesome, Free, & Miscellaneous
 
 * [Microsoft Dreamspark Student Software Catalog]
 * [GitHub Student Developer Pack]

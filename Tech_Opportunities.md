@@ -1,14 +1,14 @@
-# Tech Opportunities
+## Tech Opportunities
 
-### Fellowships
+#### Fellowships
 * [hackNY Fellows Program]
 * [KPCB Fellows]
 
-### Hackathons
+#### Hackathons
 * [Major Leage Hacking]
 * [Devpost]
 
-### Other
+#### Other
 * [NYC Tech Talent Pipeline]
 * [Digital NYC]
 

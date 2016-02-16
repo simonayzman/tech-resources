@@ -1,13 +1,13 @@
-# Technical Interviews
+## Technical Interviews
 Learn to become a better technical interviewer with these resources!
 
-### Books
+#### Books
 * [Cracking the Coding Interview] by Gayle Laakmann McDowell (*earlier editions are good as well*)
 * [Cracking the Tech Career] by Gayle Laakmann McDowell (*an expansion of [The Google Resume]*)
 * [Elements of Programming Interviews] by Adnan Aziz, Tsung-Hsien Lee, & Amit Prakash
 * [Programming Interviews Exposed] by John Mongan, Noah Kindler, & Eric Giguere
 
-### Websites
+#### Websites
 * [CareerCup]
 * [Pramp]
 * [Interview Cake]
