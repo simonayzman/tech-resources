@@ -1,4 +1,4 @@
-# Tech Resources
+## Tech Resources
 I've decided to compile a list of resources that might be helpful to anyone going into the tech industry. Check them out below. (**This document is a work in progress, so feel free to fork this repository, make changes, and submit pull requests!**)
 
 * [Online Learning Platforms]

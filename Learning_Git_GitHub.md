@@ -1,3 +1,5 @@
+## Learning Git/GitHub
+
 Long, but highly suggested git and GitHub course: 
  * https://www.udacity.com/course/how-to-use-git-and-github--ud775
 

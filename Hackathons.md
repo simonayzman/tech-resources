@@ -1,4 +1,4 @@
-# Hackathon Awesomeness
+## Hackathon Awesomeness
 
 #### Hackathon Sources
 * [Major Leage Hacking]
