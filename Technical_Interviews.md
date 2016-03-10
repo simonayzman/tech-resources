@@ -13,6 +13,9 @@ Learn to become a better technical interviewer with these resources!
 * [Interview Cake]
 * [HackerRank]
 
+#### Guides
+* [How to pass a programming interview] by Ammon Bartram
+
 McDowell (the author of the *Cracking the...* franchise and founder of CareerCup) sells a set of [unscripted 
 technical interview videos] that are absolutely invaluable to getting yourself prepared. A ton of her lectures 
 are also posted online, and they are pretty helpful reference resources. This list is not exhaustive of course!
@@ -26,5 +29,7 @@ are also posted online, and they are pretty helpful reference resources. This li
 [Pramp]: <https://pramp.com>
 [Interview Cake]: <https://www.interviewcake.com>
 [HackerRank]: <https://www.hackerrank.com/domains/algorithms/>
+
+[How to pass a programming interview]: <http://blog.triplebyte.com/how-to-pass-a-programming-interview>
 
 [unscripted technical interview videos]: <http://www.careercup.com/video>
