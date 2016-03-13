@@ -16,8 +16,8 @@
 
 [The C++ Standard Library: A Tutorial and Reference]: <http://www.amazon.com/The-Standard-Library-Tutorial-Reference/dp/0321623215>
 
-[The C++ Programming Language 4th Edition]: http://www.amazon.com/C-Programming-Language-4th/dp/0321563840
-[Programming: Principles and Practice Using C++ 2nd Edition]: http://www.amazon.com/Programming-Principles-Practice-Using-2nd/dp/0321992784
+[The C++ Programming Language 4th Edition]: <http://www.amazon.com/C-Programming-Language-4th/dp/0321563840>
+[Programming: Principles and Practice Using C++ 2nd Edition]: <http://www.amazon.com/Programming-Principles-Practice-Using-2nd/dp/0321992784>
 
 [The Algorithm Design Manual]: <http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202>
 [Algorithms]: <http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X/>
