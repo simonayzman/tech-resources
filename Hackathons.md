@@ -4,6 +4,9 @@
 * [Major Leage Hacking]
 * [Devpost]
 
+#### Boilerplate
+# [Hackathon Starter Kit]
+
 #### Productivity
 * [RequestBin]: HTTP Request Inspector
 * [Javascriptoo]: Research tool for finding javascript libraries
@@ -44,6 +47,8 @@
 
 [Major Leage Hacking]: <https://mlh.io/>
 [Devpost]: <http://devpost.com/>
+
+[Hackathon Starter Kit]: <https://github.com/sahat/hackathon-starter>
 
 [RequestBin]: <http://requestb.in/>
 [Javascriptoo]: <http://www.javascriptoo.com/>
