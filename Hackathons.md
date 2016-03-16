@@ -5,7 +5,7 @@
 * [Devpost]
 
 #### Boilerplate
-# [Node.js Hackathon Starter Kit]
+* [Node.js Hackathon Starter Kit]
 
 #### Productivity
 * [RequestBin]: HTTP Request Inspector
