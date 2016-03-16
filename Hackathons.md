@@ -5,7 +5,7 @@
 * [Devpost]
 
 #### Boilerplate
-# [Hackathon Starter Kit]
+# [Node.js Hackathon Starter Kit]
 
 #### Productivity
 * [RequestBin]: HTTP Request Inspector
@@ -48,7 +48,7 @@
 [Major Leage Hacking]: <https://mlh.io/>
 [Devpost]: <http://devpost.com/>
 
-[Hackathon Starter Kit]: <https://github.com/sahat/hackathon-starter>
+[Node.js Hackathon Starter Kit]: <https://github.com/sahat/hackathon-starter>
 
 [RequestBin]: <http://requestb.in/>
 [Javascriptoo]: <http://www.javascriptoo.com/>
