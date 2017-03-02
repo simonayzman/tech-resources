@@ -8,14 +8,17 @@ Learn to become a better technical interviewer with these resources!
 * [Programming Interviews Exposed] by John Mongan, Noah Kindler, & Eric Giguere
 
 #### Websites
-* [CareerCup]
-* [Pramp]
-* [Interview Cake]
-* [HackerRank]
-* [interviewing.io]
+* [CareerCup]: Technical interview questions source by the creator of the Cracking The * series
+* [HackerRank]: Technical interview questions source
+* [CodeFights]: Technical interview questions source
+* [Interview Cake]: Technical interview questions source with step-by-step guides
+* [Gainlo]: Technical interview questions source with step-by-step guides & paid practice technical interviews
+* [Pramp]: Free practice technical interviews
+* [interviewing.io]: Free practice technical interviews
 
 #### Guides
 * [How to pass a programming interview] by Ammon Bartram
+* [Resources, Resources, Resources] by andreis
 
 McDowell (the author of the *Cracking the...* franchise and founder of CareerCup) sells a set of [unscripted 
 technical interview videos] that are absolutely invaluable to getting yourself prepared. A ton of her lectures 
@@ -31,7 +34,10 @@ are also posted online, and they are pretty helpful reference resources. This li
 [Interview Cake]: <https://www.interviewcake.com>
 [HackerRank]: <https://www.hackerrank.com/domains/algorithms/>
 [interviewing.io]: <https://interviewing.io/>
+[CodeFights]: <https://codefights.com/interview-practice>
+[Gainlo]: <http://blog.gainlo.co/>
 
 [How to pass a programming interview]: <http://blog.triplebyte.com/how-to-pass-a-programming-interview>
+[Resources, Resources, Resources]: <https://github.com/andreis/interview>
 
 [unscripted technical interview videos]: <http://www.careercup.com/video>
