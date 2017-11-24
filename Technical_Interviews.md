@@ -1,5 +1,9 @@
 ## Technical Interviews
-Learn to become a better technical interviewer with these resources!
+Learn to become a better technical interviewee with these resources!
+
+#### Personal Resources
+* [The 4 C's of Effective Technical Interviews] by Simon Ayzman
+* [Technical Interview Questions] by Simon Ayzman
 
 #### Books
 * [Cracking the Coding Interview] by Gayle Laakmann McDowell (*earlier editions are good as well*)
@@ -20,9 +24,10 @@ Learn to become a better technical interviewer with these resources!
 * [How to pass a programming interview] by Ammon Bartram
 * [Resources, Resources, Resources] by andreis
 
-McDowell (the author of the *Cracking the...* franchise and founder of CareerCup) sells a set of [unscripted 
-technical interview videos] that are absolutely invaluable to getting yourself prepared. A ton of her lectures 
-are also posted online, and they are pretty helpful reference resources. This list is not exhaustive of course!
+McDowell (the author of the *Cracking the...* franchise and founder of CareerCup) sells a set of [unscripted technical interview videos] that are absolutely invaluable to getting yourself prepared. A ton of her lectures are also posted online, and they are pretty helpful reference resources. This list is not exhaustive of course!
+
+[The 4 C's of Effective Technical Interviews]: <Four_C.md>
+[Technical Interview Questions]: <https://github.com/simonayzman/Technical_Interview_Questions>
 
 [Cracking the Coding Interview]: <http://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850/>
 [Cracking the Tech Career]: <http://www.amazon.com/Cracking-Tech-Career-Insider-Microsoft/dp/1118968085/>
