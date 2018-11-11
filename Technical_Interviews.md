@@ -36,7 +36,7 @@ McDowell (the author of the *Cracking the...* franchise and founder of CareerCup
 [Programming Interviews Exposed]: <http://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364>
 
 [CareerCup]: <http://www.careercup.com/page>
-[Pramp]: <https://pramp.com>
+[Pramp]: <https://www.pramp.com/invt/pAgGdpO6Q6sB4m9ralrX>
 [Interview Cake]: <https://www.interviewcake.com>
 [HackerRank]: <https://www.hackerrank.com/domains/algorithms/>
 [interviewing.io]: <https://interviewing.io/>
