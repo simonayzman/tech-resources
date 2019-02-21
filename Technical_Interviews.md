@@ -12,13 +12,20 @@ Learn to become a better technical interviewee with these resources!
 * [Programming Interviews Exposed] by John Mongan, Noah Kindler, & Eric Giguere
 
 #### Websites
-* [CareerCup]: Technical interview questions source by the creator of the Cracking The * series
-* [HackerRank]: Technical interview questions source
-* [CodeFights]: Technical interview questions source
-* [Interview Cake]: Technical interview questions source with step-by-step guides
-* [Gainlo]: Technical interview questions source with step-by-step guides & paid practice technical interviews
-* [Pramp]: Free practice technical interviews
-* [interviewing.io]: Free practice technical interviews
+
+##### Interactive Technical Interview Practice
+* [LeetCode]
+* [HackerRank]
+* [CodeSignal]
+* [Interview Cake]
+
+##### Mock Technical (Phone) Interviews
+* [Pramp] (*free*!)
+* [interviewing.io] (*free!*)
+* [Gainlo]
+
+##### Technical Interview Question Sources
+* [CareerCup]
 
 #### Guides
 * [How to pass a programming interview] by Ammon Bartram
@@ -35,12 +42,13 @@ McDowell (the author of the *Cracking the...* franchise and founder of CareerCup
 [Elements of Programming Interviews]: <http://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836>
 [Programming Interviews Exposed]: <http://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364>
 
+[LeetCode]: <https://leetcode.com>
 [CareerCup]: <http://www.careercup.com/page>
 [Pramp]: <https://pramp.com>
 [Interview Cake]: <https://www.interviewcake.com>
 [HackerRank]: <https://www.hackerrank.com/domains/algorithms/>
 [interviewing.io]: <https://interviewing.io/>
-[CodeFights]: <https://codefights.com/interview-practice>
+[CodeSignal]: <https://codesignal.com/developers/interview-practice/>
 [Gainlo]: <http://blog.gainlo.co/>
 
 [How to pass a programming interview]: <http://blog.triplebyte.com/how-to-pass-a-programming-interview>
